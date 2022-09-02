@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
 
-  <h2 align="center">Street Style Landing Page</h2>
+  <h2 align="center">Food Restaurant Page</h2>
 
 </div>
 <br/>
@@ -43,17 +43,13 @@ This project is a part of the Full Stack Javascript Web Developer Bootcamp by Hi
 
 ### Learnings
 
-Although I was already familiar with HTML & CSS before starting this bootcamp. My skills had become rusty as I had not practiced in awhile and this was the perfect project to kickstart with and I learnt a new thing while building it which is -
-
-- How to overlap an image on top of another by using `CSS GRID` & `z-index`
-
-There was another way of accomplishing the same using position but this was a good opportunity for me to practice `CSS Grid`.
+In this project I learnt how to use the pseudo element `::before` to set a background color shade on top of the background image. The same could be done by linear gradient too but unfortunately it didn't cross my mind.
 
 <br/>
 
 ### Time Taken
 
-It took around 3-4 hours which is too long for such a project as I was out of practice and had to re-learn some of the stuff which I had forgotton about but it was fun and I had a great time.
+This project was completed under two hours.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +90,7 @@ Saadat Badgujar - [@\_\_Saadat](https://twitter.com/__Saadat) - saadatbadgujar@g
 
 ## Deployment Link
 
-Project Link: [https://fsjs-html-css-project-1.netlify.app/](https://fsjs-html-css-project-1.netlify.app/)
+Project Link: [https://fsjs-html-css-project-2.netlify.app/](https://fsjs-html-css-project-2.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
